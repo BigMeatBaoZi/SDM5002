@@ -1,1 +1,1 @@
-This part is a collection of all code we used in our project
+The documents in **Rebuild** is some code we do not used in our project.
