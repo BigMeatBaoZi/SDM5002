@@ -1,0 +1,20 @@
+{
+    "name": "RemoteCtrl",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b1ef917f7a8a86a4eb639ec2352edbf8",
+        "GUID:625bfc588fb96c74696858f2c467e978",
+        "GUID:7b4b8ddafd710964f8c6a9a1cb414feb",
+        "GUID:ba58c43074cf72549aa2ac5937dae44b",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
