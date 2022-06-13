@@ -1,1 +1,1 @@
-In this part, I used Bundle-fusion and another open-source project  https://github.com/ajingu/RealSense
+In this part, Realsense is another open source project and it is not wrote by us.
