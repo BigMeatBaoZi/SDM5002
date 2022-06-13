@@ -1,11 +1,11 @@
 
-<img src="docs/fig/image2022-3-13_21-54-9.png" alt="image2022-3-13_21-54-9" style="zoom:30%;" />
+<img src="docs/fig/image2022-3-13_21-54-9.png" alt="image2022-3-13_21-54-9" style="zoom:10%;" />
 
 # VR Controlled Robot Arm
 
 [![Asculus: SDM5002 (shields.io)](https://img.shields.io/badge/Asculus-SDM5002-red)](https://github.com/JoeyWu-tech/SDM5002)[![SDIM: SUSTECH (shields.io)](https://img.shields.io/badge/SDIM-SUSTECH-green)](https://sdim.sustech.edu.cn/)[![Windows: Pass (shields.io)](https://img.shields.io/badge/Windows-Pass-yellow)]()
 
-This a course project in SDM5002. We team built a system to use VR to control robot arm.
+This a course project in SDM5002. It called Asculus.We team built a system to use VR to control robot arm.
 
 This repository contains:
 
