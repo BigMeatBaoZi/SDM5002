@@ -25,9 +25,9 @@ In SDM5002, we were required to explore our interested project without any limit
 The hardware we used :
 
 * VR : Oculus Quest 2 
-* Robot Arm :
+* Robot Arm : myCobot
 * Lidar : RealSense d435
-*  Chassis :
+*  Chassis : Scout Mini
 
 Software version 
 
