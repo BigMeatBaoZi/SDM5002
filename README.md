@@ -1,4 +1,5 @@
-![image2022-3-13_21-54-9](docs/fig/image2022-3-13_21-54-9.png)
+
+<img src="docs/fig/image2022-3-13_21-54-9.png" alt="image2022-3-13_21-54-9" style="zoom:30%;" />
 
 # VR Controlled Robot Arm
 
