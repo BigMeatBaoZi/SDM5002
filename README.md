@@ -1,4 +1,4 @@
-![image2022-3-13_21-54-9](README.assets/image2022-3-13_21-54-9.png)
+![image2022-3-13_21-54-9](docs/fig/image2022-3-13_21-54-9.png)
 
 # VR Controlled Robot Arm
 
