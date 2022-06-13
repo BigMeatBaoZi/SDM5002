@@ -43,11 +43,23 @@ Software version
 
 
 
+## Prerequisite
+
+For robot arm control client (written in Python3)
+
+* [pyserial](https://pypi.org/project/pyserial/): for serial port communication
+* [ikpy](https://github.com/Phylliade/ikpy): inverse kinematics solver
+* [pythonosc](https://pypi.org/project/python-osc/): Open Sound Control server and client implementations in pure python
+
 ## Usage
 
-Download this repository. 
+1. Start the robot arm control client
 
+```shell
+python3 target_ctrl.py
+```
 
+2. Start the Unity project
 
 ## Contributing
 
