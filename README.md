@@ -1,5 +1,5 @@
 
-<img src="docs/fig/image2022-3-13_21-54-9.png" alt="image2022-3-13_21-54-9" style="zoom:1%;" />
+<img src="docs/fig/image2022-3-13_21-54-9.png" alt="image2022-3-13_21-54-9" width="500px" />
 
 # VR Controlled Robot Arm
 
